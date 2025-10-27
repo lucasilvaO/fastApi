@@ -1,0 +1,13 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Testes e Cache
+.pytest_cache/
+.coverage
+htmlcov/ 
